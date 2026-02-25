@@ -26,4 +26,4 @@
 Tips：游戏结束会显示你的最终分数。点击重新开始，刷新你的最高分记录！
 
 【技术介绍】
-HTML5原生开发，主要语言是JavaScript，使用了Phaser 3.60.0游戏引擎，Arcade物理引擎，Canvas 2D渲染技术，支持PC和移动端浏览器。
+使用轻量游戏引擎Phaser 3.60.0 开发的H5游戏，主要语言是 JavaScript，Arcade 物理引擎，Canvas 2D 渲染技术，支持 PC 和移动端浏览器。
